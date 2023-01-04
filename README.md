@@ -13,7 +13,7 @@
   </div>
 
   ### Skills:
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,vue,cpp,c,java,js,nodejs,github,gitlab,heroku,docker,vscode,idea" />\
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,vue,cpp,c,java,js,nodejs,github,gitlab,heroku,docker,vscode,idea" />
   -----------------
   Let me think for another moment and reveal a better self!
 </div>
