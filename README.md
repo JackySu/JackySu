@@ -1,10 +1,6 @@
-<div align="center">
-  
-  [焦茶](https://www.pixiv.net/en/users/12845810) 🌸Hello, Hi and Good night
-  -----------------
-  <div>
-      <img style="height: 160px" src="https://github-readme-stats.vercel.app/api?username=JackySu&theme=radical&show_icons=true" />
-      <img style="height: 160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackySu&theme=radical&layout=compact" />
-  </div>
-  <img src="https://skillicons.dev/icons?i=rust,golang,python,vue,cpp,c,github,gitlab,heroku,docker,vscode" /><br>
-</div>
+* 全境封锁外挂作者 略懂逆向 会一点🦀Rust和🐍Python
+> A hack developer of The Division, know a bit of reverse engineering, acquainted with Rust and Python
+* 现从事EDA行业于 [ICBench](https://github.com/ICBench)
+> Now working in EDA industry
+
+<img src="https://skillicons.dev/icons?i=rust,python,cpp,c,github,vscode,neovim,docker" /><br>
